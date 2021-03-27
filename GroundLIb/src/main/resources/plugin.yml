@@ -1,0 +1,7 @@
+name: GroundLib
+main: com.nejukmaster.groundlib.main
+version: 1.0.0
+api-version: 1.16
+commands: 
+  gl: 
+    description: "GroundLib v1.0.0"
